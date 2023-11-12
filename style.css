@@ -1,0 +1,37 @@
+.cen {
+    text-align: center;
+}
+
+
+h1 {
+    color: #2E4147;
+    
+}
+a {
+
+    color: #36687A;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color:#36687A;
+    font-size: 18px;
+}
+
+ol li {
+    list-style-position: inside;
+}
+
+ul li {
+    list-style-position: inside;
+}
+
+h3 {
+
+    color: #36687A;
+}
+ body {
+    background-color:  #E9ECEF;
+ }
